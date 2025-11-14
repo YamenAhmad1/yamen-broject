@@ -1,0 +1,33 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card, .list-group-item {
+  background-color: #212529 !important;
+  color: #fff;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #0dcaf0 !important;
+}
+
+.btn-info {
+  background-color: #0dcaf0;
+  border: none;
+}
+
+.btn-info:hover {
+  background-color: #0bb3d9;
+}
+#resetBtn {
+  border: 2px solid #fd7e14;
+  color: #fd7e14;
+  font-weight: 600;
+}
+
+#resetBtn:hover {
+  background-color: #fd7e14;
+  color: #000;
+}
+
